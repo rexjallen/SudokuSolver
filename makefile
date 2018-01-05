@@ -7,5 +7,5 @@ sudoku.o: sudoku.cpp
 draw.o: draw.cpp
 	g++ -c $<
 clean:
-	rm sudoku.o draw.o sudoku
+	rm  sudoku.o draw.o  sudoku
 
